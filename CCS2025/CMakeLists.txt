@@ -10,9 +10,9 @@ enable_testing()
 include_directories(/usr/local/include)
 link_directories(/usr/local/lib)
 
-set(DATA_DIR "${CMAKE_BINARY_DIR}/data/")
+set(DATA_DIR "${PROJECT_SOURCE_DIR}/data/")
 
-add_subdirectory(20xx_ours)
+add_subdirectory(2025_list_decodable)
 # add_subdirectory(2007_improving)
 
 

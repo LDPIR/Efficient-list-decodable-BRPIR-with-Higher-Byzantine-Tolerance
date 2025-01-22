@@ -26,7 +26,7 @@ int main(){
     // Load the mapping E
     std::ifstream Eifs(E_path);
     if (!Eifs.is_open()) {
-        std::cerr << "Error: Could not open file" << E_name << std::endl;
+        std::cerr << "Error: Could not open file: " << E_path << std::endl;
         return 1; 
     }
 
