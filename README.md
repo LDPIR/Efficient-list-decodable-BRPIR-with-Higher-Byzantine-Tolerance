@@ -23,4 +23,4 @@ make
 
 To try an example, run e.g.:
 ```shell
-CCS2025/2025_list_decodable/2025_list_decodable
+2025_list_decodable/2025_list_decodable
