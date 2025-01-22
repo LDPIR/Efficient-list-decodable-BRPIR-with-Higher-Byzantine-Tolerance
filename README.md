@@ -11,7 +11,7 @@ All of our experiments are single-threaded.
 
 ## Setup and Building Instructions
 
-First, install the library [FLINT 3.1.2](https://flintlib.org/downloads.html)) and [GMP 6.2.1](https://gmplib.org/#DOWNLOAD) required by this codebase. On several Ubuntu systems this can be done directly through the links above.
+First, install the library [FLINT 3.1.2](https://flintlib.org/downloads.html) and [GMP 6.2.1](https://gmplib.org/#DOWNLOAD) required by this codebase. On several Ubuntu systems this can be done directly through the links above.
 
 To build library and executables:
 ```shell
